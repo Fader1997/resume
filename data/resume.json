@@ -2,15 +2,14 @@
     "avatar": "/resume/data/1.jpg",
     "background_image": "https://9to5mac.files.wordpress.com/2014/08/yosemite-3.jpg?w=1200&h=&crop=1",
     "basicinfo": {
-        "name": "唐杰英",
-        "description": "岂能尽如人意，但求无愧我心",
-        "school": "五邑大学",
-        "profession": "计算机科学与技术",
-        "sex": "男",
-        "education" : "本科",
-        "workage": "2016届毕业",
-        "phone": "15088132354",
-        "email": "tonjayin@gmail.com"
+        "name": "蕭佑永",
+        "description": "面對挫折打擊不是最困難的；最困難的是面對各種挫折打擊，卻沒有失去對人世的熱情。",
+        "school": "國立成功大學",
+        "profession": "資訊工程學系",
+        "gender": "男",
+        "education" : "在校生",
+        "phone": "0909334568",
+        "email": "ytsb72984@gmail.com"
     },
     "social":[
         {
