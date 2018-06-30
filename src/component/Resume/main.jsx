@@ -11,10 +11,10 @@ var Resume = React.createClass({
                 </header>
                 <BasicInfo basicinfo={this.props.resume.basicinfo}/>
                 <Social social={this.props.resume.social}/>
-                <ExperienceList type="获奖经历" experiences={this.props.resume.Awards}/>
-                <ExperienceList type="社团/组织" experiences={this.props.resume.socialExperiences}/>
-                <ExperienceList type="实习经历" experiences={this.props.resume.InternExperiences}/>
-                <ExperienceList type="项目经验" experiences={this.props.resume.ProjectExperience}/>
+                <ExperienceList type="獲獎經歷" experiences={this.props.resume.Awards}/>
+                <ExperienceList type="社團/組織" experiences={this.props.resume.socialExperiences}/>
+                <ExperienceList type="實習經歷" experiences={this.props.resume.InternExperiences}/>
+                <ExperienceList type="項目經驗" experiences={this.props.resume.ProjectExperience}/>
             </div>
         )
     }
