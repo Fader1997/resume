@@ -2,7 +2,7 @@
 > 1分钟构建个人的在线简历
 
 #### react + json 构建一份个人简历
-#### => [DEMO](http://www.jayinton.com/resume/build/) <=
+#### => [DEMO](http://www.Fader1997.com/resume/build/) <=
 
 ### 使用
 
@@ -15,7 +15,7 @@
 ##### 3. 提交修改并push到你的GitHub
 ![](screenshot/step_2.png)
 
-##### 4. 访问[http://you_username.github.io/resume/build/index.html](http://{you_username}.github.io/resume/build/index.html)
+##### 4. 访问[http://you_username.github.io/resume/build/index.html](http://Fader1997.github.io/resume/build/index.html)
 
 ### Development
 
