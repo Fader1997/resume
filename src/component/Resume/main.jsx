@@ -10,11 +10,7 @@ var Resume = React.createClass({
                     <img className="avatar" src={this.props.resume.avatar} />
                 </header>
                 <BasicInfo basicinfo={this.props.resume.basicinfo}/>
-                <Social social={this.props.resume.social}/>
-                <ExperienceList type= "獲獎經歷" experiences={this.props.resume.Awards}/>
-                <ExperienceList type= "社團/組織" experiences={this.props.resume.socialExperiences}/>
-                <ExperienceList type= "實習經歷" experiences={this.props.resume.InternExperiences}/>
-                <ExperienceList type= "項目經驗" experiences={this.props.resume.ProjectExperience}/>
+                <Social social={this.props.resume.social}/
             </div>
         )
     }
