@@ -10,7 +10,7 @@ var Resume = React.createClass({
                     <img className="avatar" src={this.props.resume.avatar} />
                 </header>
                 <BasicInfo basicinfo={this.props.resume.basicinfo}/>
-                <Social social={this.props.resume.social}/
+                <Social social={this.props.resume.social}/>
             </div>
         )
     }
